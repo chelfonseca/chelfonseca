@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michel Fonseca
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs, React native and NodeJs with TypeScript
-- 💞️ I’m looking a first oportunity in full stack development
+- 💞️ I’m looking a first opportunity in full stack development
 - 🤟 my hobbies are workout and homebrewing
 - 📫 How to reach me: michelbeserradafonseca@gmail.com
 
